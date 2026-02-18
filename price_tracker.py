@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from datetime import date
 
+
 class PriceTracker:
     def __init__(self, file_path):
         self.file_path = Path(file_path)
