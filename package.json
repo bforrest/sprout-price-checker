@@ -1,0 +1,23 @@
+{
+  "name": "groceries",
+  "version": "1.0.0",
+  "description": "css class used when an item is on sale `e-vdvio`",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bforrest/sprout-price-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bforrest/sprout-price-checker/issues"
+  },
+  "homepage": "https://github.com/bforrest/sprout-price-checker#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
